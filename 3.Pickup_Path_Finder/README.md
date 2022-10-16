@@ -48,7 +48,7 @@ Steps to remember when creating the API_KEY:
 
 This program takes four inputs 3 in terminal and 1 in the code.
 
-1. Enter the file contaning address as csv file with extension(.csv).
+1. Enter the file containing address as csv file with extension(.csv).
 2. Enter the depot location.
 3. Enter the min no of orders per pincode.
 4. Enter the API_Key in the `__main__` function.
@@ -63,7 +63,7 @@ Enter the min_orders : 10
 
 ## Outputs to the code
 
-The are two types of outputs for this project.
+There are two types of outputs for this project.
 
 Terminal Output
 HTML files Output
