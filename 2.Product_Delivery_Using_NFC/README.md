@@ -46,6 +46,6 @@ A customer loyalty program is what drives the customers to return the packaging.
 
 There are three faces of implementation in the system.
 
-1. Selecting the packaging material.
-2. Programing specific tasks for each NFC.
-3. Creating the customer loyalty program.
+1. [Selecting the packaging material.](https://github.com/jithendra-varma/Intelligent_Delivery_System/blob/main/2.Product_Delivery_Using_NFC/Selecting_Material.md)
+2. [Programing specific tasks for each NFC.](https://github.com/jithendra-varma/Intelligent_Delivery_System/blob/main/2.Product_Delivery_Using_NFC/Programming_specific_tasks_for_NFC.md)
+3. [Creating the customer loyalty program.](https://github.com/jithendra-varma/Intelligent_Delivery_System/blob/main/2.Product_Delivery_Using_NFC/Customer_Loyality_Program.md)
