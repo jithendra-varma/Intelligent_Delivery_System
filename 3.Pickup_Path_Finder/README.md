@@ -1,4 +1,4 @@
-# Cost Efficient Product Wastage Collection algorithm from Customers of E-Commerce.
+# Cost Efficient Product Wastage Collection Algorithm from Customers of E-Commerce.
 
 Here we are proposing an algorithm that can provide a cost-efficient way to collect the product packaging’s back from the customer. This algorithm collects the location of the customer when the customer taps his mobile on the NFC enabled packaging. Then we process the locations of the all the customers who used this feature. Then we monitor the density of people who are willing to return the packaging back at different locations.
 
