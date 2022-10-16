@@ -35,7 +35,7 @@ Steps to remember when creating the API_KEY:
 1. Open google cloud console.
 2. Enable billing by providing billing information.
 3. Create a new project
-4. Enable the folloing four apis.
+4. Enable the following four apis.
     - Geocoding API
     - Distance Matrix API
     - Maps JavaScript API
