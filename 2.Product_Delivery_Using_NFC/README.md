@@ -41,3 +41,11 @@ In the normal delivery system if the idea of reusing a product is to be implemen
 So to answer this question we created a customer loyalty program. By definition, a customer loyalty program is a marketing approach that recognizes and rewards customers who purchase or engage with a brand on a recurring basis. A company may give points or perks, and graduate customers to higher levels of loyalty the more they buy. These incentives and specific benefits often result in the customer becoming a more regular consumer or the ideal — a brand promoter. Benefits may involve free merchandise, rewards, coupons, or insider perks like early access to new products. 
 
 A customer loyalty program is what drives the customers to return the packaging. Such that if the customer returns the product he will be awarded some perks i.e., points. These points can be redeemed for brand vouchers or some other exciting deals. Such that both the customer and e-commerce platform can be benefitted from this program. Customers is benefited from the rewards obtained from the program. The E-Commerce platform is benefitted by reducing the usage of new packaging materials.
+
+# **Implementation**
+
+There are three faces of implementation in the system.
+
+1. Selecting the packaging material.
+2. Programing specific tasks for each NFC.
+3. Creating the customer loyalty program.
