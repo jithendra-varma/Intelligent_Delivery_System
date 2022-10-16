@@ -29,3 +29,5 @@ On the profile page, farmers are provided with order management, customer manage
 - Farmers can enlarge their online reach, and as the seasons change, farmers can turn their product availability on and off.
 - Farmers can establish a net banking system.
 - They can maintain a record of previous customer payments and receipts.
+
+![Home Page](https://github.com/jithendra-varma/Intelligent_Delivery_System/blob/main/1.MANGOOD_E-Commerce_Store/Screenshots/Picture%201.png)
