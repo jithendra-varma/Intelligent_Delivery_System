@@ -67,7 +67,7 @@ Enter the min_orders : 10
 
 The are two types of outputs for this project.
 
-Termianl Output
+Terminal Output
 HTML files Output
 
 > These outputs contains two types of data one being calcualated using shortest distance and the other using shortest duartion.
